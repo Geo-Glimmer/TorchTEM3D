@@ -9,3 +9,8 @@ Create a new environment in Anaconda
 Install PyTorch
 
 	pip install torch==2.5.1+cu124 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+
+
+
+I am currently submitting to Computers&Geosciences. If you have any usage, please contact me
