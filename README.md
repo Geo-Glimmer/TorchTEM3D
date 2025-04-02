@@ -13,4 +13,4 @@ Install PyTorch
 
 
 
-I am currently submitting to Computers&Geosciences. If you have any usage, please contact me
+I am currently submitting to Computers&Geosciences. If you have any usage, please contact me：liziteng24@mails.ucas.ac.cn
