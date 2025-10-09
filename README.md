@@ -13,4 +13,7 @@ Install PyTorch
 
 
 
-I am currently submitting to Computers&Geosciences. If you have any usage, please contact me：liziteng24@mails.ucas.ac.cn
+I have submitted to Computers&Geosciences. If you have any usage, please contact me：liziteng24@mails.ucas.ac.cn
+
+TorchTEM3D: PyTorch-Driven forward modeling platform for fast 3D transient electromagnetic modeling and efficient sensitivity matrix calculation
+https://doi.org/10.1016/j.cageo.2025.106063
